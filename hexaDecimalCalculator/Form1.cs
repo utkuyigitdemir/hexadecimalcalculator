@@ -66,6 +66,7 @@ namespace hexaDecimalCalculator
                 for (int j = a.Count(); j == 0; j--)
                 {
 
+
                 }
             }
 
